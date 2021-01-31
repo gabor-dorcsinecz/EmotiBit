@@ -153,7 +153,7 @@ By this point, you are a EmotiBit ninja!! However, we at CFL believe in empoweri
   - Verify if the **WiFi-Name** and **WiFi-Password** are correctly entered in the config file.
   </details>
 
-[LED]: /assets/M0_WiFi_LED_Indicators_01.png "Feather LED's"
+[LED]: ./wiki/assets/M0_WiFi_LED_Indicators_01.png "Feather LED's"
 [macOS-version]: ./assets/macOS-Catalina-OS_version.png "macOS version" 
 [oscilloscope-drirectory]: ./assets/macOS-oscilloscope_file_heirarchy.png ""
 [macOs-Catalina-Initial_Oscilloscope_Error]: ./assets/macOs-Catalina-Initial_Oscilloscope_Error.png ""
